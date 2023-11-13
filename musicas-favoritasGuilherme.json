@@ -1,0 +1,35 @@
+{
+    "nome": "Guilherme",
+    "musicas": [
+        {
+            "artist": "will.i.am",
+            "song": "#thatPOWER",
+            "duration_ms": 279506,
+            "genre": "hip hop, pop"
+        },
+        {
+            "artist": "Kardinal Offishall",
+            "song": "Dangerous",
+            "duration_ms": 246053,
+            "genre": "hip hop, pop, R\u0026B"
+        },
+        {
+            "artist": "Taylor Swift",
+            "song": "...Ready For It?",
+            "duration_ms": 208186,
+            "genre": "pop"
+        },
+        {
+            "artist": "Amerie",
+            "song": "1 Thing",
+            "duration_ms": 238746,
+            "genre": "hip hop, pop, R\u0026B"
+        },
+        {
+            "artist": "Vengaboys",
+            "song": "Shalala Lala",
+            "duration_ms": 214819,
+            "genre": "pop"
+        }
+    ]
+}

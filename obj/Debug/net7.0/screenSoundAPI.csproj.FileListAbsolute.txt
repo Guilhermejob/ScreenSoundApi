@@ -1,0 +1,14 @@
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\bin\Debug\net7.0\screenSoundAPI.exe
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\bin\Debug\net7.0\screenSoundAPI.deps.json
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\bin\Debug\net7.0\screenSoundAPI.runtimeconfig.json
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\bin\Debug\net7.0\screenSoundAPI.dll
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\bin\Debug\net7.0\screenSoundAPI.pdb
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\obj\Debug\net7.0\screenSoundAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\obj\Debug\net7.0\screenSoundAPI.AssemblyInfoInputs.cache
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\obj\Debug\net7.0\screenSoundAPI.AssemblyInfo.cs
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\obj\Debug\net7.0\screenSoundAPI.csproj.CoreCompileInputs.cache
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\obj\Debug\net7.0\screenSoundAPI.dll
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\obj\Debug\net7.0\refint\screenSoundAPI.dll
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\obj\Debug\net7.0\screenSoundAPI.pdb
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\obj\Debug\net7.0\screenSoundAPI.genruntimeconfig.cache
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\screenSoundAPI\obj\Debug\net7.0\ref\screenSoundAPI.dll
